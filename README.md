@@ -12,7 +12,7 @@
         <!-- Organization  -->
         <samp>
                 <br>
-                「 I am a front-end web developer and and student of Full Stack MERN from <b>Argentina</b> 」
+                「 Hello! I am a systems engineering student and I am currently learning Full Stack MERN, C# and MSSQL from <b>Argentina</b> 」
                 <br>
                 <br>
         </samp>
